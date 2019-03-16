@@ -13,4 +13,4 @@ https://mybinder.org/v2/gh/Pavleen3633/master?filepath=Project%2Fproject_data_sc
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](mybinder.org/v2/gh/Pavleen3633/Project/master?filepath=demons.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pavleen3633/Project/master?filepath=Project%2Fdemons.ipynb)
