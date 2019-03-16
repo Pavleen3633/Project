@@ -5,3 +5,7 @@ https://hub.mybinder.org/user/pavleen3633-project-8z9qv26i/notebooks/project_dat
 https://nbviewer.jupyter.org/github/Pavleen3633/Project/blob/master/data_wrangling_join_combine_reshape.ipynb
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/pavleen3633-project-8z9qv26i/notebooks/project_data_science.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pavleen3633/Project/master?filepath=cs109a_hw1_solutions%20%283%29-Copy1.ipynb)
+https://mybinder.org/v2/gh/Pavleen3633/master?filepath=Project%2Fproject_data_science.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pavleen3633/master?filepath=Project%2Fproject_data_science.ipynb).. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Pavleen3633/master?filepath=Project%2Fproject_data_science.ipynb
