@@ -12,7 +12,6 @@
 https://mybinder.org/v2/gh/Pavleen3633/Project/master?filepath=data_science_final.ipynb
 
 ## For Project Presentation html file data_science_final.html is uploaded
-## Click for presentation
 
 https://github.com/Pavleen3633/Project/blob/master/data_science_final.html
 
