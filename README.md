@@ -13,4 +13,4 @@ https://mybinder.org/v2/gh/Pavleen3633/master?filepath=Project%2Fproject_data_sc
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/pavleen3633-project-yrowjqhd/notebooks/data_science_final.ipynb#Ranking-Artists/Bands-through-analysis-of-yearly-Top-100-Songs-using-Wikipedia-web-scrapping-from-years-1970-to-2018)
