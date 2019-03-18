@@ -5,7 +5,9 @@ Project Notebook is uploaded as data_science_final.ipynb
 Access to Notebook through Binder
 Click below
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/pavleen3633-project-yrowjqhd/notebooks/data_science_final.ipynb
-or
+
+You can also access through below link
+
 https://hub.mybinder.org/user/pavleen3633-project-yrowjqhd/notebooks/data_science_final.ipynb
 
 #Ranking-Artists/Bands-through-analysis-of-yearly-Top-100-Songs-using-Wikipedia-web-scrapping-from-years-1970-to-2018)
