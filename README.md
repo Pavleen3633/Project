@@ -1,9 +1,10 @@
 #Project
-Ranking Artists/Bands through analysis of yearly Top 100 Songs using Wikipedia web scrapping from years 1970 to 2018
-Participant- Pavleen Kaur
-Project Notebook is uploaded as data_science_final.ipynb
-Access to Notebook through Binder
-Click below
+## **Ranking Artists/Bands through analysis of yearly Top 100 Songs using Wikipedia web scrapping from years 1970 to 2018**<br>
+
+## Participant- Pavleen Kaur
+## Project Notebook is uploaded as data_science_final.ipynb
+## Access to Notebook through Binder
+## Click below
 https://hub.mybinder.org/user/pavleen3633-project-yrowjqhd/notebooks/data_science_final.ipynb
 
 
